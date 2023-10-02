@@ -1,4 +1,3 @@
-```javascript
 const reference = [
   {
     author: "최지원",
@@ -8,5 +7,3 @@ const reference = [
     link: "",
   },
 ]
-```
-];
